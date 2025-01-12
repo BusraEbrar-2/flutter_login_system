@@ -23,10 +23,11 @@ doc/api/
 *.js.deps
 *.js.map
 
+
+
+.flutter-plugins
+.flutter-plugins-dependencies
 # Ignore C++ files
 *.cpp
 *.h
 CMakeLists.txt
-
-.flutter-plugins
-.flutter-plugins-dependencies
